@@ -1,0 +1,16 @@
+{
+  "name": "auth-staq-sdk",
+  "version": "2.0.0",
+  "description": "oAuth api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-http-client": "1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "querystring": "^0.2.0"
+  }
+}
