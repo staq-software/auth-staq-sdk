@@ -1,12 +1,24 @@
 {
   "name": "auth-staq-sdk",
-  "version": "2.0.0",
-  "description": "oAuth api client",
+  "version": "1.0.0",
+  "description": "Official sdk for easy authentication and integration to AuthStaq",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staq-software/auth-staq-sdk.git"
+  },
+  "keywords": [
+    "authentication",
+    "oauth"
+  ],
+  "homepage": "https://github.com/staq-software/auth-staq-sdk",
+  "bugs": {
+    "url": "https://github.com/staq-software/auth-staq-sdk/issues"
+  },
+  "author": "tswayne",
   "license": "ISC",
   "dependencies": {
     "base-http-client": "1.0.0",
