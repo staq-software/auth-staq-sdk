@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/auth-staq-sdk.svg)](https://www.npmjs.com/package/auth-staq-sdk)
+
 # AuthStaq SDK
 Simple js library for integrating with [AuthStaq](https://auth.staqsoftware.com).
 
@@ -259,3 +261,6 @@ An AuthStaq user
   * lastLogin
   * createdAt
   * updatedAt
+
+## Contributing
+Feel free to open issues or pull requests!
