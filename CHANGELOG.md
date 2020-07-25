@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.2.0] - 7/25/2020
+- Add credential factory that can determine jwt type
+
 ## [1.1.1] - 7/25/2020
 - Bugfix: call correct property to check expiration in maybeRefresh
 - Bugfix: check if token is string correctly

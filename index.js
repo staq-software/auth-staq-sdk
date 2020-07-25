@@ -5,5 +5,8 @@ const Token = require('./lib/token')
 const StaqAccount = require('./lib/staq-account')
 const UserCredentials = require('./lib/user-credentials')
 const ClientCredentials = require('./lib/client-credentials')
+const CredentialFactory = require('./lib/credential-factory')
 
-module.exports = { OauthClient, OauthMachineClient, Sdk, ClientCredentials, UserCredentials, Token, StaqAccount }
+module.exports = {
+  OauthClient, OauthMachineClient, Sdk, ClientCredentials, UserCredentials, Token, StaqAccount, CredentialFactory
+}
