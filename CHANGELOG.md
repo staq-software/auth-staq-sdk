@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.1.1] - 7/25/2020
+- Bugfix: call correct property to check expiration in maybeRefresh
+- Bugfix: check if token is string correctly
+- Bump base http client for better http error stack traces
+
 ## [1.1.0] - 7/3/2020
 - Fix Token isValid to return bool 
 - Add Token verify that throws

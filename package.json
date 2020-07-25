@@ -1,6 +1,6 @@
 {
   "name": "auth-staq-sdk",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Official sdk for easy authentication and integration to AuthStaq",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "author": "tswayne",
   "license": "ISC",
   "dependencies": {
-    "base-http-client": "1.0.0",
+    "base-http-client": "1.0.1",
     "jsonwebtoken": "^8.5.1",
     "querystring": "^0.2.0"
   }
