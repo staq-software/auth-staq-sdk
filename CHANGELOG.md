@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.3.3] - 8/02/2020
+- Fix missing return for create account 
+
 ## [1.3.2] - 8/02/2020
 - Bump dependencies
 
