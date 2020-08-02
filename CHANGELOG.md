@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.3.0] - 8/02/2020
+- Configurable auth host
+
 ## [1.2.0] - 7/25/2020
 - Add credential factory that can determine jwt type
 
