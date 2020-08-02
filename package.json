@@ -1,6 +1,6 @@
 {
   "name": "auth-staq-sdk",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Official sdk for easy authentication and integration to AuthStaq",
   "main": "index.js",
   "scripts": {
