@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.4.0] - 10/13/2021
+- Expose Ci Token interface
+
 ## [1.3.3] - 8/02/2020
 - Fix missing return for create account 
 
