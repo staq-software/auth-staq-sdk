@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.4.1] - 6/26/2022
+- Configurable AuthStaq host
+
 ## [1.4.0] - 10/13/2021
 - Expose Ci Token interface
 
