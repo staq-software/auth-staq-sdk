@@ -1,6 +1,12 @@
 # Change Log
 
-## [1.4.1] - 6/26/2022
+## [1.4.4] - 12/31/2022
+- Update jwt package
+
+## [1.4.3] - 12/17/2022
+- Replace deprecated querystring with URLSearchParams
+
+## [1.4.2] - 6/26/2022
 - Configurable AuthStaq host
 
 ## [1.4.0] - 10/13/2021
